@@ -1,1 +1,7 @@
-<h1>Contact page</h1>
+@extends('layout.app')
+@section('content')
+    <div class="contact-page">
+        <div id="form"></div>
+        <div id="map">The map</div>
+    </div>
+@endsection

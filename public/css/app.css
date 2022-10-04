@@ -1,5 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&display=swap');
-
+@import url(https://fonts.googleapis.com/css2?family=Montserrat:wght@200&display=swap);
 * {
     margin: 0;
     padding: 0;
@@ -97,3 +96,4 @@ main {
     width: 50%;
     border: red solid 1px;
 }
+

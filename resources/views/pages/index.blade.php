@@ -1,1 +1,4 @@
-<h1>Home page</h1>
+@extends('layout.app')
+@section('content')
+    <h1>{{ $title }}</h1>
+@endsection
